@@ -1,0 +1,52 @@
+body { 
+  background: url("../img/burger.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+.devoured{
+	min-width: auto;
+}
+.undevoured{
+	min-width: auto;
+}
+.text{
+	color: black;
+}
+
+h1{
+	text-align: center;
+}
+li {
+  padding: 10px;
+  margin: 5px;
+  background: #d83703;
+  color: white;
+  font-weight: bold;
+}
+.submit{
+	background-color: black;
+}
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: #d83703;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+.add-burger{
+	width: 30%;
+	margin-top: 30px;
+  margin-left: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  /*padding: 10px;*/
+}
